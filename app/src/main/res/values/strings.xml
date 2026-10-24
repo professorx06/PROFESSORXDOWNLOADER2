@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OTG Auto</string>
+    <string name="a11y_desc">Settings me OTG connection toggle ko automatically ON karta hai.</string>
+</resources>
